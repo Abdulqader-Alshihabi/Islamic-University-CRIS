@@ -228,6 +228,6 @@ Whatever merit this work has, after God, belongs first to our supervisor **Prof.
 
 **Built with precision for the Islamic University of Madinah**
 
-[Open Live Portal (iu-cris-system.vercel.app)](https://iu-cris-system.vercel.app/) &nbsp;|&nbsp; Built by **Abdulqader Alshihabi** & Capstone Team
+[Open Live Portal (iu-cris-system.vercel.app)](https://iu-cris-system.vercel.app/) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/abdulqader-alshihabi-859b19260/) &nbsp;|&nbsp; Built by **Abdulqader Alshihabi** & Capstone Team
 
 </div>
